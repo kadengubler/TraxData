@@ -1,0 +1,7002 @@
+[
+    {
+        "STREET": "2785 W 530 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "595 N 970 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3335 N CANYON RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "94 W 400 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4287 N VINTAGE CIR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1143 W 100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1030 S ASPEN PL",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2273 S 950 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1448 S 810 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "876 S ASPEN LOOP",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "550 W 100 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "276 N 2970 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2779 S MOUNTAIN VISTA PKWY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "94 N 2830 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2567 N 460 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3197 W 1690 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1286 E CAMBRIDGE CT",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1233 S 820 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "543 S 1330 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2185 N 1450 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1222 W 500 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "599 N 1260 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "25 W 4200 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "890 S 100 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "254 N 1000 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2099 W 1460 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "989 E 420 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "465 S 500 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4155 N CANYON RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "589 E CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "183 W 400 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3048 N 250 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1685 W CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1596 E 1350 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "B38 BYU",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84602,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2947 W 1010 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "543 E 2780 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1104 N 1760 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3276 W 1670 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1352 E 440 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2087 W CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "830 W 600 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1876 N 1740 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "185 E 2950 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "258 S 300 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2337 W 880 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "953 W 1400 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4343 N 100 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "392 N 700 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4591 N FOOTHILL DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "172 E 200 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2552 W 1390 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "156 E 100 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2132 W 450 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "515 S UNIVERSITY AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "174 E 100 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "780 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2746 N EDGEWOOD DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "456 N 800 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3037 W 1300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "74 S 800 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "272 W 1020 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "959 W 1700 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4048 N EDGEWOOD DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1974 W 1550 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1733 N 1450 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "245 W 100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "233 S PARKSIDE PL",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "998 N 900 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1707 E ASPEN LOOP",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "819 S 100 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "124 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "745 N 1000 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2475 W 300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1910 W 70 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "554 N 800 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1985 W 1600 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "372 W 4620 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3888 N EDGEWOOD DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2285 W 540 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "994 N 1410 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2476 W 300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1366 N CHERRY LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "832 E 820 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1012 E QUAIL SUMMIT DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "275 N 300 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3065 W 1300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "735 W 600 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3377 N COTTONWOOD LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "689 W LEBON CIR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "554 N SUMMIT DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "431 W 3700 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "510 N 800 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1745 N LAMBERT LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "600 N 1260 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "630 E 800 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4 N 1600 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "625 N 700 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "602 W 1800 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1810 N 2100 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1604 N GENEVA RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "988 N 2700 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "706 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1322 E 2300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "426 E FOOTHILL DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2181 S ALASKA AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3464 N 100 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "271 S 700 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1352 S 350 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "778 N 600 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3115 N CHEROKEE LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1941 N 360 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "693 N 1540 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2818 W 1680 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "44 N 400 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1090 W 300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1477 N 1930 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2018 W 820 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1744 N 1590 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1094 S 1480 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1010 S ASPEN PL",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1261 S 1100 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "642 E 500 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1845 W 80 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "793 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "515 W 1770 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2343 W 1680 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "56 N 500 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "16 N 500 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "567 N 2310 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1188 S FRONTAGE RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1436 E 1050 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "981 N GRAND AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "395 W 4650 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2131 N 220 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3277 W 1690 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "891 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "997 S FREEDOM BLVD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "738 W 920 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "719 N 600 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "763 S 1400 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1286 W 500 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1616 W 600 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1347 E 440 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2404 W 800 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1176 N JORDAN AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "976 E 4500 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "122 W WOODSIDE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1654 W 470 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1465 E 1370 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "876 N 600 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "265 N UNIVERSITY AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "619 N 800 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2517 N IROQUOIS DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1987 N 650 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "189 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2159 S DAKOTA AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1275 W 1600 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1326 N 3300 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1275 N JORDAN AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "44 N 2700 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1797 W 80 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1141 W 650 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "856 S 1400 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "848 E 1090 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1308 W 470 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "363 N BELMONT PL",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2109 N CANYON RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "930 S STATE ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3820 N UNIVERSITY AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "670 E 500 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "894 N 750 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "205 W 3200 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1862 W CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "545 E 3050 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4271 N VINTAGE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2259 N 390 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2692 W 370 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "577 N 100 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "387 N 400 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "621 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1399 E 400 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1045 S UNIVERSITY AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2021 S STATE ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1425 E OAK CLIFF DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "559 E 4300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "325 E 2100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1654 W 900 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1363 S ALPINE LOOP",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "423 S 300 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "927 N TERRACE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "227 E 100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "127 E 600 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1421 N 800 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "795 S ASPEN LOOP",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "237 E CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "932 S ASPEN PL",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1351 E 2300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1703 W CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "739 S STATE ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1816 W 1010 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2444 W 460 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1343 N MAPLE LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "787 S 1100 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1991 S PARK ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3662 N PIUTE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1338 N REESE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "173 S 1980 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "805 N 500 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "133 W 300 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "432 E 2260 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4009 N QUAIL RUN DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1111 N 950 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "539 E 4190 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "732 E HYDE PARK CT",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "185 S 750 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2405 W 1160 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1717 W CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1128 N INDEPENDENCE AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "187 N 2970 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1890 W 1460 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2428 W 1350 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2926 N IROQUOIS DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1884 W 1020 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "542 W 200 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1424 W 1100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "33 N 2250 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2755 N BRERETON DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "829 E 1090 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "962 S EASTGATE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1964 N 840 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "175 S 600 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "769 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "461 W 300 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1985 N 1500 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1291 S 1410 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "759 E WALNUT AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "425 E 4750 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "197 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3422 W TAXILANE 20",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1270 W 1050 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1386 W PARKSIDE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1231 S 860 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3480 N BROOKSIDE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "126 S 1920 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1272 S 1410 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1188 W 300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "33 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "763 E 820 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "742 N 500 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "372 W 800 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "431 S TRI TERRA WAY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1655 N WOODLAND DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "24 N 500 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1601 W CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "727 E 400 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "210 E 2950 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "33 E 800 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "88 N GENEVA RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "259 S 500 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "187 N 600 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "605 N 1050 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "855 N 300 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3286 N PIUTE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "763 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "741 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "555 E 3230 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "515 E 4300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1041 E HILLSIDE CIR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "836 N 1100 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1073 S 810 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1188 N HOLLY CIR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "214 N 2650 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "434 N 200 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "470 N 1020 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1153 N 1650 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "443 N 900 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "85 E 600 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "254 E 100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3325 N 500 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2079 W 1100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1413 E 440 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1232 E CEDAR AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "628 W 1340 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3604 N 250 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1475 E 920 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1318 N 300 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1415 N 2720 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2266 N 700 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2048 W CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "890 W 1020 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "364 N 1280 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "737 N HILLSDALE LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "610 S STATE ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1251 W 1700 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2780 W CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "11 N 3000 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "445 E 3050 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1214 W 1460 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1005 N 850 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3317 N COTTONWOOD LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "696 E 400 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1841 N 1550 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "794 E 3950 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "454 N 2580 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "381 N 400 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1881 W 820 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2901 W CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "561 S 1920 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "253 E 4700 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1425 W 1050 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1622 S 450 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "290 W 800 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4005 N DEVONSHIRE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "140 N 800 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "952 S 1480 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "869 W 200 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4540 N BRISTOL CIR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "504 E 2875 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3209 W 1690 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "125 W 500 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1114 W 650 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1014 W 2000 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "651 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1015 N INDEPENDENCE AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "691 N 300 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "404 N 2460 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "685 W 500 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "43 S 700 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1605 W 950 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "438 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1645 N CANYON RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1388 E 400 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1392 N 1450 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "567 N 200 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "596 E 4190 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "850 N 50 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "830 N 750 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1195 E 460 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2036 W 1600 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1804 N 2700 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "729 N 600 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "418 W CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "597 E 3400 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2929 W 230 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "750 S 1100 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1453 S 760 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1446 N 1750 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "107 E 400 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2504 N 820 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3009 W 1300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "970 S EASTGATE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1421 E 850 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3223 N COTTONWOOD LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "309 S 1800 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "716 S 400 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "890 W 200 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "154 N UNIVERSITY AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1443 W ARTHUR DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2202 W 600 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1177 E ASH AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "345 E 600 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "449 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "310 N 2200 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "695 E 420 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "255 W 920 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1877 S WASHINGTON AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1230 W 580 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "272 N 100 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "153 N 3000 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "557 E 400 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "955 W GRANDVIEW LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1124 N 1575 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2334 N 1000 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1168 S 560 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "349 E LAKEVIEW PKWY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "444 E 3630 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "200 E 4635 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "973 N INDEPENDENCE AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "887 E 300 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1964 S 950 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "445 S 200 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "665 E STADIUM AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "452 E 300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "752 E 820 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1288 E 820 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2737 W 1180 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "832 W 500 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "567 N 2620 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "906 N 2770 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1379 S ALPINE WAY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1056 N 900 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "332 S 900 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1913 N 1640 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "502 W 1720 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "751 S ASPEN CIR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "855 N UNIVERSITY AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "148 N DRAPER LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "340 W 500 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2763 W 1520 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "242 E 2540 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "884 N INDEPENDENCE AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "434 E 500 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "770 N 1000 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "340 E 100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "310 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "176 N 600 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2518 N 850 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "723 N 900 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "270 S 700 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "733 N 400 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2139 N 250 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "311 E 300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "122 S 1860 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "242 E 2190 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1722 E ASPEN LOOP",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4202 N CANYON RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "988 W 1430 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "466 S 1330 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "240 E 3250 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "980 W 2100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "85 W 500 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "391 S 300 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "551 N 1025 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "212 E 4735 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "511 E LAKEVIEW PKWY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "871 N FREEDOM BLVD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "807 E 200 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "867 N 2600 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "765 W COLUMBIA LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "329 N 800 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "480 E 2825 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "472 S 2050 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "544 W 970 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1100 E 2680 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3684 N LITTLE ROCK TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3122 N BANNOCK DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "469 N 300 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1780 N COBBLESTONE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "436 S 1740 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "662 W 100 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "25 W 200 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1165 E 300 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1767 W 270 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "309 W LAKEWOOD DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1742 N 1450 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1110 E 300 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "283 W SCENICVIEW DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2343 N 1000 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "967 W 200 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1060 E CEDAR AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "314 N 600 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "85 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "222 W SCENICVIEW WAY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1515 S UNIVERSITY AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "663 E LAKEVIEW PKWY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1052 S FRONTAGE RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1535 N 3100 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4384 N MILE HIGH DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3170 W BOAT HARBOR DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1362 N 1750 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "75 E 100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "526 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1681 N 2000 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "807 W 1150 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1068 S 1100 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "646 W 1850 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2594 W 200 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1528 N LAKESHORE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1680 E ASPEN SUMMIT DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1768 S BUCKLEY LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1851 W 520 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "357 S 400 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "6770 N HWY 189",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "464 W 300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2449 W 1310 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1905 N 1500 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "751 N 900 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1087 S 1420 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1297 N 1750 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "659 W LEBON CIR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1178 N 1450 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4907 N 300 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "889 W CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1209 N LOCUST LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1180 E ELM AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2228 N UNIVERSITY PKWY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "430 S FREEDOM BLVD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "190 E 100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "311 S 1080 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2722 W CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1015 W 1150 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "709 S 720 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "875 E 2730 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "555 E 3050 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "132 N 200 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "164 S 400 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1495 E 580 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "471 N 500 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "959 E CEDAR AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "391 W 700 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "333 N 700 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "318 S 1740 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "468 S TRI TERRA LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "526 N 600 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "392 S 800 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "851 N 600 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "873 S ASPEN WAY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "375 S 1350 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1476 S 680 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2960 N FOOTHILL DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1158 E 640 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2026 W 820 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "375 E 200 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "788 N 700 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "430 S 300 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1259 N JORDAN AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "721 S 1400 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "433 N 800 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1868 N 1640 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1520 W 950 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "345 N 500 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "467 N 1220 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "212 S 1600 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1975 N 1400 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "431 E 700 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "180 S 800 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1665 W 1050 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1078 S SLATE CANYON DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1589 W 1000 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1333 E CAMBRIDGE CT",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1796 W 150 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1128 W 1700 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "596 W 1975 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "447 S SLATE CANYON DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "377 S 800 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "428 W 400 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "168 W 800 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "475 E UNIVERSITY PKWY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "129 W CANDLEWOOD PL",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "140 S LAKESHORE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "973 E 360 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "826 E 3750 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "102 N UNIVERSITY AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3036 N 25 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1118 N 1350 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1005 S 810 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "358 N 600 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1481 W ARTHUR DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "395 N 900 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "OLVH BYU",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84602,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "785 N 1250 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "471 E 300 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "899 S UNIVERSITY AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "145 E CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "325 E 500 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "740 N 1050 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1906 S WASHINGTON AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4307 N CHURCHILL DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "414 E 2260 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "396 E 1130 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1290 N 300 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "924 S ASPEN SUMMIT DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "602 E 4450 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "147 W WOODSIDE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1955 E OREGON AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "415 S 600 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1745 N 500 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1107 E 1270 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2132 W 220 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2561 W 1440 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1234 N OQUIRRH DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1327 N 380 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "710 E 2620 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1314 E 660 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1136 N BIRCH LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3130 N MOJAVE LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "491 W 200 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "373 W LAKEWOOD DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1381 E 1370 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2796 N ARAPAHOE LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1661 N 1350 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "881 W 200 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3577 N 480 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "511 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1988 S NEVADA AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1421 E 2300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1169 N 800 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1205 E 930 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4176 N TIMPVIEW DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3119 N BANNOCK DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "364 W 1670 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2821 N MARRCREST E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "814 S LAKEVIEW PKWY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3996 N QUAIL RUN DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2812 W 1390 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1145 S CANYON MEADOW DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "994 E 900 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "139 N 500 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2146 N TIMPVIEW DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "673 N 200 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1019 N 2700 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "807 N HILLSDALE LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2686 W 880 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "789 E 2550 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3738 N 970 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3562 N 100 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "318 W CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "587 N 2670 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2019 N 550 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "378 W 1570 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "862 N 600 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1191 W 550 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1245 N 800 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2093 N 180 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2995 N 320 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "465 N 1020 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3594 N FOOTHILL DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1417 N 1550 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3424 N SIOUX CIR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1093 S 1440 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1407 E 700 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "429 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1100 E CEDAR AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "722 N 900 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1014 E 1300 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "5001 N RIVER PARK WAY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1250 E 580 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "938 S STATE ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1287 W 1870 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2212 N 850 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "58 S 600 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1261 W 500 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1384 S SLATE CANYON DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "390 S UTAH AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1989 E NEVADA CIR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1266 S 1000 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "212 E 4735 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1381 S ALPINE LOOP",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "441 S 1920 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3753 N LITTLE ROCK DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1218 S UNIVERSITY AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "887 W 700 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "200 E 4635 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1284 S 1050 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "486 E STADIUM AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1327 N 380 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2165 N OAK LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2995 W 200 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3277 W 1690 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "66 W 4600 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "862 W 500 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "764 E 50 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "696 W 900 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "757 N 850 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1874 S WASHINGTON CIR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "388 N 1060 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2751 N 175 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3400 N 350 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1282 S 1050 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "231 N 2970 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3341 N COTTONWOOD LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1184 W 200 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "219 N 2970 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "471 E 4190 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "167 W WOODSIDE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1235 E ASH AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "950 N UNIVERSITY AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "285 W 500 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "275 E 400 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4215 N VINTAGE CIR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3285 W 550 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2019 W 350 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "152 S 1920 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1022 N 1880 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "465 S 500 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1907 W 450 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "524 N 2260 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "5177 N RIVER PARK WAY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "724 W 1340 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1840 N STATE ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3140 N NAVAJO LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "244 N 2970 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3657 S SIERRA VISTA WAY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1440 N MOON RIVER DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1731 W 50 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "776 N 1890 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "144 W 2060 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "924 S ASPEN WAY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1660 N 1500 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "167 N 1080 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3334 W TAXILANE 19",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "650 W 980 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "740 N HARBOR PKWY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "815 N 380 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1671 N WOODLAND DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "375 N 300 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3326 N MOHICAN LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2048 S NEVADA AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "733 E 950 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3704 N TIMPVIEW DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "318 S 400 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "865 N 2200 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2407 W 180 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "158 E 400 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1476 N 2800 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "750 S 400 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "939 E CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "351 W 880 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "5054 N CANYON RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1921 N GENEVA RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1527 W 1400 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "478 N 700 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2494 N UNIVERSITY PKWY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "5093 N RIVER PARK WAY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "56 N 500 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "315 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "232 N 2370 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1496 N 1550 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "736 W COLUMBIA LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1700 N GENEVA RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "576 E 3460 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "753 W COLUMBIA LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1596 N 1550 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "925 W 800 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "444 W 200 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "235 N 700 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1132 W 1140 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "834 E 300 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "420 N 750 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "972 S 890 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1965 W CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "170 S 500 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3636 N LITTLE ROCK DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2190 N TIMPVIEW DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "303 E 2660 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "209 W 3200 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "287 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "587 N 2670 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "320 E 200 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "812 W 100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2162 N 40 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "555 N 750 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "HLE BYU",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84602,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1257 E CINNAMON RIDGE CIR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "42 S 700 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1454 E 1370 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "267 W 300 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1656 N HICKORY LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1317 N 3500 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "791 W 2100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2057 S STATE ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1740 N WILLOWBROOK DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "59 W WOODSIDE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "47 W 4800 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4073 N 200 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1118 N 1350 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "860 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2374 W 960 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1123 N 1220 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "600 N 1260 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "303 E 100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2164 N 1400 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1796 W 1010 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1515 N RIVERSIDE AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3592 N 480 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1541 N RIVERSIDE AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "287 E 400 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1934 N 700 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1237 S 1100 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "172 S 850 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2816 N 370 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "958 N GENEVA RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "269 E 300 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2581 W 1210 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2130 S DAKOTA AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "85 W MARRCREST S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3381 N PIUTE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "148 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1065 E 2620 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "963 N GRAND AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2770 N CANYON RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "486 E STADIUM AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "893 N 750 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3236 N BROOKSIDE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "325 E 3450 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2302 W 300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1067 E WATERFORD DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3051 W 1300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "972 N 900 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3962 N EDGEWOOD DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "778 S SLATE CANYON DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "967 N 1760 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4352 N IMPERIAL WAY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1048 E CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "35 N 1600 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3653 N 230 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "889 E 2260 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "842 N 2200 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "885 E 3900 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "139 S 1000 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1764 N 1820 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2449 W 460 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "43 E 700 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "483 N 750 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1169 N GRAND AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "330 N 700 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1391 W 1700 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2793 N 840 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "302 W 3700 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "211 W 3200 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "976 E 460 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "372 S 200 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1135 N 850 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1777 S COLORADO AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1235 E 1500 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2295 S MOUNTAIN VIEW PKWY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1474 E 950 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "44 W 2170 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "623 W 1975 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "766 E 2950 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3089 N APACHE LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "731 E 3800 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "552 W VINTAGE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "380 W 400 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1813 S 570 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "623 S 700 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "389 E 900 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "448 W 500 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1184 S 1000 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1429 E 850 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "38 N 1600 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "953 S 1480 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "475 E 400 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "231 N 2200 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "721 E 200 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2417 W 1200 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "164 W 880 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2753 N EDGEWOOD DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "321 N 300 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4409 N VINTAGE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1087 E BRIAR AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4159 N DOVER LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3686 N 700 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "561 E 2780 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1157 S 1420 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3885 N LITTLE ROCK DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3431 N COTTONWOOD LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2185 N TIMPVIEW DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "588 N 2670 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2864 N 175 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3814 N 60 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "495 W 800 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1715 N 2050 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "509 S 1440 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1654 W 900 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "424 E CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "828 S ASPEN LOOP",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3132 N 600 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1709 E ASPEN LOOP",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "292 S 100 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1876 N 1550 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1577 W 1100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "587 W 1800 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "319 E 300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "117 W CANDLEWOOD PL",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "398 W 100 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1194 E 800 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1182 S 1450 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1669 N HICKORY LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2564 W 1520 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1431 E OAK CREST LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "243 S PARKSIDE CT",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4222 N STONE XING",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "871 S ASPEN SUMMIT DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "372 N 400 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1294 N LAKEVIEW DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "843 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1937 N 1640 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3003 W 880 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1104 S 1480 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1761 W 220 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "429 E 100 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "788 E 2680 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "963 N GRAND AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "151 W 2170 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "131 N 2770 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "339 N 700 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1520 N 300 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1376 N 3250 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1266 S 1410 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1597 S 620 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "560 N 1300 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "528 N 2870 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "900 W 1400 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1266 W 510 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "176 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "525 N 1300 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "953 W 770 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1618 W 1320 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2844 W 230 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "654 E 420 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1062 E HILLSIDE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1115 E 2570 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "339 E 4300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1290 N STATE ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "446 S 1400 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "763 W 500 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1400 W 500 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "711 S 720 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3037 W 1300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "805 N 1220 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3188 N MOJAVE LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1509 S 180 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1595 W 820 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3268 W 1670 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "270 N 400 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "836 S UNIVERSITY AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "875 W 600 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3663 N LITTLE ROCK LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "155 E 4320 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "811 E 400 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "701 S 1600 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2851 W 1520 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "956 W 500 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1902 N CANYON RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "575 W 100 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "386 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2059 W 1100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1798 N 2700 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4497 N WIMBLEDON DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "558 W 300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2515 W 1440 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "95 N 800 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "419 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2286 N CARTERVILLE RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "295 W 100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1947 S WASHINGTON AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "816 E 950 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "8 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1160 W 220 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "303 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "673 E 2270 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2717 W 2000 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "918 N 250 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1109 W 100 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "71 N 700 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2047 N 550 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1342 E 720 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "332 E 800 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2833 W 1060 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "605 N 1350 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "256 S 700 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1526 N 2040 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "882 W 1200 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1955 N CANYON RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1435 E 950 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1548 W 1970 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "372 N DRAPER LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1689 S 300 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1555 N 1350 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2243 N 1060 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1092 E ASH AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1881 W 1460 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2318 N 1000 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "548 N 900 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2070 W 1080 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1799 S 730 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "257 E CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "36 S 300 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3550 N FOOTHILL DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "883 E 300 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1658 N HICKORY LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1796 W 1010 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "952 N 1000 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "635 W 1450 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1034 S 1010 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": "",
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2325 S TRACY HALL PKWY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "746 E 2680 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1109 N 1750 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1687 N HICKORY LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2115 W 220 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1897 W 890 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1044 S 500 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "438 N 700 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "781 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "557 W 1020 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "260 N UNIVERSITY AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "205 N 800 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4640 N BROOKSHIRE CIR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4352 N CANYON RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1165 N 750 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1186 W 1200 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "802 N 700 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "590 S 300 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "325 S FREEDOM BLVD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "710 E 2620 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2814 W 750 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "302 E LAKEVIEW PKWY",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "808 W 200 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    }
+]]
