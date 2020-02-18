@@ -1,0 +1,146 @@
+{
+    "at_risks": [
+        {
+            "description": "Customer has requested more time to get caught up on outstanding balance."
+        },
+        {
+            "description": "Customer has been severely ill in the hospital. They will be catching up on their balance."
+        },
+        {
+            "description": "Customer claims payment has been sent. They provided check number 2396. Need to verify on our side."
+        },
+        {
+            "description": "Customer has been traveling. Committed to sending payment next week. Follow up with accounting."
+        },
+        {
+            "description": "Customer just entered divorce proceedings. They need 90 days to get settled on their side."
+        },
+        {
+            "description": "Customer was in an auto accident. They requested 90 days to get caught up on unpaid balance."
+        }
+    ],
+    "tasks": [
+        {
+            "subject": "Call Customer",
+            "note": "They have questions about the installation"
+        },
+        {
+            "subject": "Pre Appointment Call",  
+            "note": "Confirm Upcoming Appointment"
+        },
+        {
+            "subject": "Welcome Call",
+            "note": "Thank customer for selecting us and offer to ask any follow up questions"
+        },
+        {
+            "subject": "Camera Question",
+            "note": "Customer has questions about the camera system we just installed"
+        },
+        {
+            "subject": "Glass Break",
+            "note": "Not reporting to panel."
+        },
+        {
+            "subject": "Panel Issues",
+            "note": "Intermittent beeping. Please Fix."
+        },
+        {
+            "subject": "Thermostat Issues",
+            "note": "Heater doesn't appear to be kicking on"
+        },
+        {
+            "subject": "New Equipment Requested",
+            "note": "Customer has a requested an additional keyfob."
+        },
+        {
+            "subject": "Missing Equipment",
+            "note": "Customer claims a keyfob wasn't left after the installation."
+        },
+        {
+            "subject": "Door Contact Issue",
+            "note": "Door contact for side door to garage is misfiring"
+        },
+        {
+            "subject": "Customer Referral",
+            "note": "Call customer to get 3 potential clients as referrals."
+        },
+        {
+            "subject": "Panel Questions",
+            "note": "Customer has questions about a few settings in the panel."
+        },
+        {
+            "subject": "Customer No Show",
+            "note": "Customer wasn't at home for the appointment. Call to reschedule."
+        },
+        {
+            "subject": "Perform On-Hand Inventory",
+            "note": "Take inventory of equipment in vehicle."
+        },
+        {
+            "subject": "Low Battery",
+            "note": "Customer believes a battery needs to ne replaced on a door contact."
+        },
+        {
+            "subject": "Door Contact Replacement",
+            "note": "Customer believes the door contact to their patio needs to be replaced. Please verify."
+        },
+        {
+            "subject": "Fire Inspection",
+            "note": "Call customer to confirm their upcoming fire system inspeciton."
+        }
+    ],
+    "lead_interactions": [
+        {
+            "note": "Talked on phone and they said they are going to sign up tomorrow."
+        },
+        {
+            "note": "Still very interested."
+        },
+        {
+            "note": "Wanted me to call back next week."
+        },
+        {
+            "note": "No longer interested."
+        },
+        {
+            "note": "Still excited!"
+        }
+    ],
+    "partner_companies": {
+        "Self Generated": {
+            "campaigns": [
+                "Cold Call",
+                "Doorknocking"
+            ]
+        },
+        "Toll Free Number": {
+            "campaigns": [
+                "800-111-1111",
+                "800-222-2222",
+                "800-333-3333"
+            ]
+        },
+        "Website": {
+            "campaigns": [
+                "leads111.com",
+                "leads222.com",
+                "leads333.com"
+            ]
+        },
+        "Homebuilder": {
+            "campaigns": [
+                "DR Horton",
+                "Builder 1",
+                "Builder 2",
+                "Builder 3"
+            ]
+        },
+        "Real Estate Agent": {
+            "campaigns": [
+                "Agent 111",
+                "Agent 222",
+                "Agent 333"
+            ]
+        }
+    }
+}
