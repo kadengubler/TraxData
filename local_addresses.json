@@ -1,0 +1,1752 @@
+[
+    {
+        "STREET": "2190 N TIMPVIEW DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "751 S ASPEN CIR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1275 N JORDAN AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "122 S 1860 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1715 N 2050 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "447 S SLATE CANYON DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "850 N 50 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "389 E 900 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2444 W 460 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "283 W SCENICVIEW DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "763 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "446 S 1400 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1429 E 850 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "147 W WOODSIDE DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "5054 N CANYON RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "980 W 2100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "33 E 800 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1041 E HILLSIDE CIR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1145 S CANYON MEADOW DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "330 N 700 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "398 W 100 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3326 N MOHICAN LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "HLE BYU",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84602,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "602 E 4450 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "332 S 900 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "465 N 1020 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2770 N CANYON RD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "272 W 1020 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2048 W CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2780 W CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "295 W 100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1520 W 950 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "791 W 2100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "357 S 400 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "515 S UNIVERSITY AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1655 N WOODLAND DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "548 N 900 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2785 W 530 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1616 W 600 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "875 E 2730 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "155 E 4320 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2374 W 960 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1015 W 1150 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "254 N 1000 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "392 S 800 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1136 N BIRCH LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "950 N UNIVERSITY AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1347 E 440 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3326 N MOHICAN LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1291 S 1410 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "187 N 600 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1618 W 1320 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1123 N 1220 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "430 S FREEDOM BLVD",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1660 N 1500 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "429 WYMOUNT TER",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "939 E CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2504 N 820 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "893 N 750 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "309 W LAKEWOOD DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "885 E 3900 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1392 N 1450 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3562 N 100 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2561 W 1440 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "33 N 2250 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "925 W 800 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "430 S 300 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "24 N 500 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3663 N LITTLE ROCK LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2960 N FOOTHILL DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2146 N TIMPVIEW DR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "557 E 400 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1143 W 100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "4215 N VINTAGE CIR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1577 W 1100 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3317 N COTTONWOOD LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "257 E CENTER ST",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2202 W 600 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2844 W 230 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "483 N 750 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1906 S WASHINGTON AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2816 N 370 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "205 W 3200 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "721 E 200 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "763 S 1400 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "894 N 750 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "270 S 700 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "425 E 4750 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1548 W 1970 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "884 N INDEPENDENCE AVE",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "659 W LEBON CIR",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "808 W 200 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "389 E 900 S",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84606,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1622 S 450 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2404 W 800 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2185 N 1450 E",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "240 E 3250 N",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84604,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "372 N DRAPER LN",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "173 S 1980 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "472 S 2050 W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "ZIP": 84601,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "386 E 1500 S",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84058,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1440 S 240 E",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84058,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "667 E 1650 S",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "695 E 1650 S St",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1446 S 720 E",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1475 S 640 E St",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1433 S 680 E",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1071 S Palisades Dr",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "973 S 870 E",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "917 E 700 S",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "571 S Palisade Dr",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "435 S 900 E St",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "342 S Palisade Dr",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1065 E 260 S",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "149 S 1000 E",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1070 E 50 S",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1119 E 50 S",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "66 N Palisades Dr",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "159 N 1080 E",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1109 E 150 N St",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1048 E 275 N",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "314 N 900 E St",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "350 N 900 E St",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "426 N 800 E",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1055 E 440 N",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1065 500 N",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "548 N 1080 E St",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "532 N 1160 E",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1261 E 570 N",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1335 E 660 N",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1139 720 N",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "976 E 930 N",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1091 E 1100 N",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1173 E 1200 N",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1241 N 1110 E",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "522 E 1840 N",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1886 N Heather Dr",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "326 Heather Cir",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84057,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "412 E 1930 N",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84097,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "387 E 1890 N St",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84057,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1936 N 230 E St",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84057,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "203 Heather Rd",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84057,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1788 N 50 E",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84057,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "57 1740 W",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84057,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "123 W 1720 N St",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84057,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1681 N 240 W",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84057,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1761 N 240 W",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84057,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "460 W 1830 N",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84057,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "545 W 1960 N St",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84057,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1765 N 720 W",
+        "CITY": "Orem",
+        "STATE": "UT",
+        "ZIP": 84057,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "417 E 800 N",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "926 N 500 E",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "210 E 1230 N",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1646 N 100 E",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "5 N 300 W",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "11 W Stonybrook Ln",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "721 N 350 W",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "552 N 200 W",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "410 N 250 W",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "265 W 300 N",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "365 W 200 N St",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "146 N 100 W",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "124 E 100 N",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "340 E 200 N",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "627 E 100 N",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "258 N 700 E",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "999 E 140 N St",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1177 E Center St",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "117 N 1440 E",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2135 Spring Oaks Dr",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1825 E 250 S",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1694 E 550 S St",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1983 E 775 S",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1839 River Bottom Rd",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1757 Town and Country Rd",
+        "CITY": "Springville",
+        "STATE": "UT",
+        "ZIP": 84663,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "275 N 210 E",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "264 N 300 E",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "469 N 250 E",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "685 N 540 E",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "633 N 800 E",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "938 E 800 N",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1115 N 1000 E",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "875 E 1300 N",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "263 E 1600 N",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "133 Carnesecca Ct",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1542 N 440 W",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "631 N 540 E",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "162 N 800 E",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "102 Aspen Dr",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "510 S Eagle Dr",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "974 Hawks Rest Dr",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "753 Sierra View Dr",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "509 Monta Vista Dr",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1370 Park Meadows Dr",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2254 W 325 S",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "152 N 1100 W",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1046 W 1050 N",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1492 Meadow Ln",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1549 W 1800 N",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1670 N 1650 W",
+        "CITY": "Mapleton",
+        "STATE": "UT",
+        "ZIP": 84664,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "498 W 200 S",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "267 S 590 W St",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "375 S 880 W",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1058 W 350 S",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1343 W 450 S",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1959 E 1400 S",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1186 S 1560 E",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1465 E 1300 S",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1611 S 1230 E St",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1177 E 1710 S",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1428 S 980 E St",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "715 Scenic Dr",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "810 S 530 E St",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1246 E 500 S St",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "950 E Flonette Ave",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "145 S 500 E St",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "385 E 300 N",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1232 E 680 N",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1592 E Ridgefield Rd",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "182 2040 E",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2604 E 10 S",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1272 S 2700 E",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "3227 E Canyon Crest Dr",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2247 Fairway Dr",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "2600 Oakridge Dr",
+        "CITY": "Spanish Fork",
+        "STATE": "UT",
+        "ZIP": 84660,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "942 E 155 S",
+        "CITY": "Lindon",
+        "STATE": "UT",
+        "ZIP": 84042,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "295 E 70 S",
+        "CITY": "Lindon",
+        "STATE": "UT",
+        "ZIP": 84042,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "108 W 40 S St",
+        "CITY": "Lindon",
+        "STATE": "UT",
+        "ZIP": 84042,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "381 W 60 N",
+        "CITY": "Lindon",
+        "STATE": "UT",
+        "ZIP": 84042,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "473 W Lakeview Rd",
+        "CITY": "Lindon",
+        "STATE": "UT",
+        "ZIP": 84042,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "737 290 N",
+        "CITY": "Lindon",
+        "STATE": "UT",
+        "ZIP": 84042,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "759 W 425 N",
+        "CITY": "Lindon",
+        "STATE": "UT",
+        "ZIP": 84042,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "488 N 575 W",
+        "CITY": "Lindon",
+        "STATE": "UT",
+        "ZIP": 84042,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "378 W 700 N",
+        "CITY": "Lindon",
+        "STATE": "UT",
+        "ZIP": 84042,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "393 W 800 N",
+        "CITY": "Lindon",
+        "STATE": "UT",
+        "ZIP": 84042,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "163 W 300 N",
+        "CITY": "Payson",
+        "STATE": "UT",
+        "ZIP": 84651,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "193 E 400 N",
+        "CITY": "Payson",
+        "STATE": "UT",
+        "ZIP": 84651,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "733 E 100 N",
+        "CITY": "Payson",
+        "STATE": "UT",
+        "ZIP": 84651,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "445 Ridge Ln",
+        "CITY": "Payson",
+        "STATE": "UT",
+        "ZIP": 84651,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "337 Jay Ln",
+        "CITY": "Payson",
+        "STATE": "UT",
+        "ZIP": 84651,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "949 S 730 W St",
+        "CITY": "Payson",
+        "STATE": "UT",
+        "ZIP": 84651,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "844 W 1280 S",
+        "CITY": "Payson",
+        "STATE": "UT",
+        "ZIP": 84651,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1431 S 600 W",
+        "CITY": "Payson",
+        "STATE": "UT",
+        "ZIP": 84651,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1375 S 300 W",
+        "CITY": "Payson",
+        "STATE": "UT",
+        "ZIP": 84651,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1524 S 30 E",
+        "CITY": "Payson",
+        "STATE": "UT",
+        "ZIP": 84651,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "1608 S 790 W",
+        "CITY": "Payson",
+        "STATE": "UT",
+        "ZIP": 84651,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "984 W 1620 S",
+        "CITY": "Payson",
+        "STATE": "UT",
+        "ZIP": 84651,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "357 S 600 W",
+        "CITY": "Payson",
+        "STATE": "UT",
+        "ZIP": 84651,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "586 W 100 N",
+        "CITY": "Payson",
+        "STATE": "UT",
+        "ZIP": 84651,
+        "COUNTY": "Utah"
+    },
+    {
+        "STREET": "340 N Main St",
+        "CITY": "Payson",
+        "STATE": "UT",
+        "ZIP": 84651,
+        "COUNTY": "Utah"
+    }
+]
