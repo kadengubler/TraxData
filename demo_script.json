@@ -142,5 +142,23 @@
                 "Agent 333"
             ]
         }
-    }
+    },
+    "work_orders": [
+        {
+            "subject": "Work Order",
+            "note": "Owner has a dog. Call before ariving."
+        },
+        {
+            "subject": "Work Order",
+            "note": "Make sure to collect payment at end of appointment."
+        },
+        {
+            "subject": "Work Order",
+            "note": "Customer wants a demo of the Alarm.com app."
+        },
+        {
+            "subject": "Work Order",
+            "note": "Enter through the back door."
+        }
+    ]
 }
